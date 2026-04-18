@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Andreia Milanez | Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav class="container">
+    <h1>Andreia Milanez</h1>
+    <ul>
+      <li><a href="#sobre">Sobre</a></li>
+      <li><a href="#projetos">Projetos</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+
+  <section id="sobre" class="container">
+    <h2>Sobre Mim</h2>
+    <p>
+      Sou estudante de Sistemas para Internet, com foco em desenvolvimento web.
+      Tenho interesse em criar interfaces modernas, responsivas e funcionais,
+      utilizando HTML, CSS e JavaScript. Estou em constante aprendizado e
+      buscando minha primeira oportunidade na área de tecnologia.
+    </p>
+  </section>
+
+  <section id="projetos" class="container">
+    <h2>Meus Projetos</h2>
+    <div id="lista-projetos"></div>
+  </section>
+
+</main>
+
+<footer>
+  <p>© 2026 - Andreia Milanez | Desenvolvedora Web</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
